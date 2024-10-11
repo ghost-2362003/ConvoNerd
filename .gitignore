@@ -11,3 +11,8 @@ embedding/__pycache__/
 language_models/__pycache__/
 text_extraction/__pycache__/
 utils/__pycache__/
+.venv
+.gitignore
+*.mp4
+*.wav
+testing.py
